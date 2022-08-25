@@ -24,7 +24,7 @@ const Profile = () => {
               <h4 className="name">
                 {rocket.rocket_name}
                 <a href={rocket.wikipedia} target="_blank" rel="noopener noreferrer">
-                  ➕
+                &nbsp;➕
                 </a>
               </h4>
               <button
@@ -46,7 +46,7 @@ const Profile = () => {
               <h4 className="name">
                 {dragon.name}
                 <a href={dragon.wikipedia} target="_blank" rel="noopener noreferrer">
-                  ➕
+                &nbsp;➕
                 </a>
               </h4>
               <button
@@ -68,7 +68,7 @@ const Profile = () => {
               <h4 className="name">
                 {mission.mission_name}
                 <a href={mission.wikipedia} target="_blank" rel="noopener noreferrer">
-                  ➕
+                &nbsp;➕
                 </a>
               </h4>
               <button

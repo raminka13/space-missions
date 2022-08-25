@@ -2,9 +2,9 @@
   margin-top: 120px;
   margin-bottom: 2rem;
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: flex-start;
-  width: 60%;
+  width: 80%;
   color: #000;
   gap: 0.7rem;
   font-family: var(--roboto);
@@ -12,7 +12,15 @@
 
 .missions-profile {
   flex: 1;
+  padding: 10px 5px 5px;
   text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #919191;
+  border-radius: 0.4rem;
+  background-color: #f8f8f8;
 }
 
 .mission-wrapper {
@@ -23,16 +31,20 @@
   align-items: center;
   border: 1.5px solid #919191;
   background-color: #ddd;
-  border-radius: 5px;
+  border-radius: 0.2rem;
 }
 
 .no-mission {
+  padding: 1rem;
+  border: 1.5px solid #919191;
+  background-color: #ddd;
+  border-radius: 5px;
+  font-family: var(--monserrat);
   margin-top: 0.5rem;
-  font-size: 2rem;
-  color: #919191;
+  font-size: 1.2rem;
+  font-weight: 300;
+  color: #606060;
   text-align: center;
-  height: 3rem;
-  width: 400px;
 }
 
 @media screen and (max-width: 650px) {
