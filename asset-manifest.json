@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/raminka13.github.io/space-missions/static/css/main.c0980db5.css",
-    "main.js": "/raminka13.github.io/space-missions/static/js/main.8b347087.js",
-    "index.html": "/raminka13.github.io/space-missions/index.html",
-    "main.c0980db5.css.map": "/raminka13.github.io/space-missions/static/css/main.c0980db5.css.map",
-    "main.8b347087.js.map": "/raminka13.github.io/space-missions/static/js/main.8b347087.js.map"
+    "main.css": "/space-missions/static/css/main.c0980db5.css",
+    "main.js": "/space-missions/static/js/main.8b347087.js",
+    "index.html": "/space-missions/index.html",
+    "main.c0980db5.css.map": "/space-missions/static/css/main.c0980db5.css.map",
+    "main.8b347087.js.map": "/space-missions/static/js/main.8b347087.js.map"
   },
   "entrypoints": [
     "static/css/main.c0980db5.css",
